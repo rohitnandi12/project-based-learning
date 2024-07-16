@@ -206,7 +206,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
-- [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
+- ~~[Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)~~
 
 ## JavaScript:
 
@@ -542,13 +542,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)(video)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 - [Build Web Application with GoLang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-- Building a Chat Application in Go with ReactJS
-  - [Part 1: Initial Setup](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-1-initial-setup/)
-  - [Part 2: Simple Communication](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-2-simple-communication/)
-  - [Part 3: Designing our Frontend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-3-designing-our-frontend/)
-  - [Part 4: Handling Multiple Clients](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-4-handling-multiple-clients/)
-  - [Part 5: Improving the Frontend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-5-improved-frontend/)
-  - [Part 6: Dockerizing your Backend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-6-dockerizing-your-backend/)
+- ~~Building a Chat Application in Go with ReactJS~~
+  - ~~[Part 1: Initial Setup](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-1-initial-setup/)~~
+  - ~~[Part 2: Simple Communication](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-2-simple-communication/)~~
+  - ~~[Part 3: Designing our Frontend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-3-designing-our-frontend/)~~
+  - ~~[Part 4: Handling Multiple Clients](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-4-handling-multiple-clients/)~~
+  - ~~[Part 5: Improving the Frontend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-5-improved-frontend/)~~
+  - ~~[Part 6: Dockerizing your Backend](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-6-dockerizing-your-backend/)~~
 - [Go WebAssembly Tutorial - Building a Calculator Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 - REST Servers in Go
   - [Part 1 - standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
